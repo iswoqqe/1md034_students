@@ -19,3 +19,12 @@ button:hover {
 	background-color: #99ccff;
 	cursor: pointer;
 }
+
+table {
+	width: 80%;
+	margin: 0 auto;
+}
+
+body {
+	margin: 0 auto;
+}
