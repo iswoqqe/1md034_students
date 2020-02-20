@@ -6,3 +6,11 @@ body {
 .allergy-information {
 	font-weight: bold;
 }
+
+#burger-info {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#customer-info {
+}
