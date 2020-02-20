@@ -8,11 +8,13 @@ body {
 }
 
 #burger-info {
+	border: 1px dashed #ffffff;
 	background-color: #000000;
 	color: #ffffff;
 }
 
 #customer-info {
+	border: 1px dashed #000000;
 }
 
 button:hover {
