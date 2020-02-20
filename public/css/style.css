@@ -31,6 +31,16 @@ body {
 	margin: 0 auto;
 }
 
+header {
+	margin: 1%;
+}
+
+header img {
+	height: 20vh;
+	width: 100%;
+	opacity: 0.5;
+}
+
 section {
 	margin: 1%;
 }
