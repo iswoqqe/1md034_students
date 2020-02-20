@@ -1,5 +1,5 @@
 body {
-    font-family: arial, sans-serif;
+	font-family: arial, sans-serif;
 	font-size: 1.2em;
 }
 
@@ -27,4 +27,17 @@ table {
 
 body {
 	margin: 0 auto;
+}
+
+section h2 {
+	margin-left: 1%;
+	padding-top: 1%;
+}
+
+section h3, p {
+	margin-left: 1%;
+}
+
+button {
+	margin-top: 2%;
 }
