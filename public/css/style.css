@@ -31,12 +31,11 @@ body {
 	margin: 0 auto;
 }
 
-section h2 {
-	margin-left: 1%;
-	padding-top: 1%;
+section {
+	margin: 1%;
 }
 
-section h3, p {
+section h2, h3, p {
 	margin-left: 1%;
 }
 
